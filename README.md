@@ -1,5 +1,9 @@
 # CSE511 WUSTL Intro to AI Pacman Game
-Contain three times lab
+Contain one pre and three times lab
+
+Lab0
+------
+Basic python code 
 
 Lab1
 -------
